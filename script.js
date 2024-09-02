@@ -1,6 +1,5 @@
 
   
-
   function getWeather() {
     const cityInput = document.getElementById('cityInput').value;
   
